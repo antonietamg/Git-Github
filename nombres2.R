@@ -5,7 +5,7 @@ Añade tu nombre en el número que corresponde:
 3. Mariana
 4. Vianey Pastran
 5.
-6.
+6.Vanessa
 7.Luis Caballero
 8.
 9.
