@@ -17,8 +17,8 @@ Añade tu nombre en el número que corresponde:
 15.
 16.
 17.
-18. Rodrigo
-19. Ana 
-20.Fernando
+18. 
+19.  
+20.
 21.
 22.
